@@ -1,11 +1,11 @@
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 50%;
 }
 
 th, td {
   border: 1px solid #050505;
-  padding: 8px;
+  padding: 2%;
   text-align: left;
 }
 
@@ -13,12 +13,3 @@ th {
   background-color: #f2f2f2;
 }
 
-.formato {
-  
-  padding: 8px;
-  
-}
-.radio {
-  margin-right: 10px;
-  padding-top: 10px;
-}
